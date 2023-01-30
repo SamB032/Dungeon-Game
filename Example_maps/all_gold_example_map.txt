@@ -1,8 +1,0 @@
-name all gold dungeon
-win 1
-#########
-#G.EGGEG#
-#GGEEEEG#
-#.GEG.EG#
-#G.EGGEG#
-#########
