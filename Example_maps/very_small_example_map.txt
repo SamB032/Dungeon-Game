@@ -1,4 +1,4 @@
-name Smaller Dun.eon of Doom
+name Smaller Dungeon of Doom
 win 1
 #########
 #.....G.#
