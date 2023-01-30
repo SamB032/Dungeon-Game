@@ -1,0 +1,6 @@
+name smallest map
+win 1
+#########
+#GEGEGG.#
+#.GGGGGG#
+#########
