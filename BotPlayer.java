@@ -34,7 +34,7 @@ public class BotPlayer extends Player{
         //If the player is not in the 5x5 grid we move in a random direction
         while (true){
             //Generates a random direction for the bot to move
-            char direction = possibleMoves[ (int) (Math.random() * (possibleMoves.length - 1))];
+            char direction = possibleMoves[ (int) (Math.random() * possibleMoves.length)];
             int rowMove = 0;
             int columnMove = 0;
 
