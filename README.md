@@ -30,6 +30,8 @@ To get the list of all possible commands, type 'commands'
 ...##
 
 > MOVE N
+
+> LOOK
 ..###
 #..##
 #.P##
